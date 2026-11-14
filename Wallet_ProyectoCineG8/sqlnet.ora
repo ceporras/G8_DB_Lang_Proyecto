@@ -1,0 +1,2 @@
+WALLET_LOCATION = (SOURCE = (METHOD = file) (METHOD_DATA = (DIRECTORY="C:/xampp/htdocs/G8_DB_Lang_Proyecto/Wallet_ProyectoCineG8")))
+SSL_SERVER_DN_MATCH=yes

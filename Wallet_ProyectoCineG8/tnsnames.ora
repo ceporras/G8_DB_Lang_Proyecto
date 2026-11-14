@@ -1,0 +1,12 @@
+proyectocineg8_high = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-ashburn-1.oraclecloud.com))(connect_data=(service_name=g6508db35def194_proyectocineg8_high.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+proyectocineg8_medium = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-ashburn-1.oraclecloud.com))(connect_data=(service_name=g6508db35def194_proyectocineg8_medium.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+proyectocineg8_low = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-ashburn-1.oraclecloud.com))(connect_data=(service_name=g6508db35def194_proyectocineg8_low.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+proyectocineg8_tp = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-ashburn-1.oraclecloud.com))(connect_data=(service_name=g6508db35def194_proyectocineg8_tp.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+proyectocineg8_tpurgent = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-ashburn-1.oraclecloud.com))(connect_data=(service_name=g6508db35def194_proyectocineg8_tpurgent.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+
+
