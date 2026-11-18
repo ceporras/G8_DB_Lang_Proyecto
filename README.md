@@ -40,8 +40,8 @@ Pasarelas de pago reales, aplicaciones móviles nativas, contabilidad o nómina,
 # códigos de error:
 
 Código	Significado
--20001	No existe el registro (o su padre)
--20002	No existe el registro a eliminar
--20003	Regla de negocio o dato inválido
--20004	Valor duplicado
--20005	No se puede eliminar, tiene registros relacionados
+- 20001	No existe el registro (o su padre)
+- 20002	No existe el registro a eliminar
+- 20003	Regla de negocio o dato inválido
+- 20004	Valor duplicado
+- 20005	No se puede eliminar, tiene registros relacionados
